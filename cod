@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página - Módulo I - Primeiros Passos com HTML</title>
+</head>
+<body>
+    <h1>Módulo 1 - Primeiros Passos com HTML</h1>
+    <hr />
+
+    <h2>Índice</h2>
+    <p><strong><u>INSTRUÇÕES:</u> </strong>Neste índice você deve colocar os tópicos que mais entendeu. Estes apenas são sugestões.</p>
+    <ul>
+        <li><a href="#">História dos computadores</a></li>
+        <li><a href="#">O que são <i>Clients</i>?</a></li>
+        <li><a href="#">O que são <i>Servers</i>?</a></li>
+        <li><a href="#">Como é uma estrutura básica de um HTML?</a></li>
+        <li><a href="#">Entendendo a diferença entre listas ordenadas e não ordenadas
+        <li><a href="#">Links de referências</a></li>
+    </ul>
+
+    <h2>História dos computadores</h2>
+    Explicamos e resumimos a história do computador, como foram os primeiros a serem inventados e quais são as suas principais características.
+
+    <p> A história do computador é o relato de <strong>acontecimentos, <u>inovações</u> e desenvolvimentos tecnológicos no campo da <u>computação</u> </strong> e da automação, que deram origem às máquinas que conhecemos como computadores, computadores ou computadores. Também registra seu aprimoramento e atualização até chegar às versões miniaturizadas e rápidas do século XXI.
+      
+     <p> Os computadores, como todos sabemos , <strong>são as máquinas de computação mais avançadas e eficientes já inventadas</strong> pelo <u>homem</u> . Eles são dotados de potência operacional suficiente, autonomia e velocidade suficientes para substituí-lo em muitas tarefas, ou para permitir uma dinâmica de trabalho virtual e digital que nunca foi possível antes na história.
+      
+      <p> A invenção desse tipo de dispositivo no <u>século 20</u> <strong>revolucionou para sempre a forma como entendemos os processos industriais </strong> o <u>trabalho</u> , a <u>sociedade</u> e inúmeras outras áreas de nossas vidas. Afeta desde a forma como interagimos, até o tipo de operações de troca de informações em escala global que somos capazes de realizar.
+
+         <p> A historia do computador tem uma longa história, <strong><i>remontando às primeiras réguas de cálculo</i></strong> e às primeiras máquinas projetadas para facilitar a tarefa de aritmética para humanos. O ábaco, por exemplo, foi um importante avanço no assunto, criado por volta de 4.000 aC. C.
+
+            <p>Houve também invenções muito posteriores, como a máquina de Blaise Pascal , conhecida como Máquina de Pascal ou Pascalina, criada em 1642. Consistia em uma série de engrenagens que permitiam a realização de operações aritméticas. Esta máquina foi aprimorada por Gottfried Leibinitz em 1671 e a história das calculadoras começou.
+
+               <p>As tentativas humanas de automatizar continuaram desde então: <strong><i>Joseph Marie Jacquard inventou em 1802 um sistema de cartões perfurados</i></strong> para tentar automatizar seus teares, e em 1822 o inglês Charles Babbage usou esses cartões para criar uma máquina de cálculo diferencial.
+
+                  <p>Apenas doze anos depois (1834), ele conseguiu inovar sua máquina e obter uma máquina analítica capaz de fazer as quatro operações aritméticas e de armazenar números na memória (até 1.000 números de 50 dígitos). Por esse motivo, Babbage é considerado o pai da computação , já que essa máquina representa um salto para o mundo da computação como a conhecemos.
+
+<h2><strong>Invenção do computador</strong></h2>
+A invenção do computador <strong>não pode ser atribuída a apenas uma </strong> <u>pessoa</u>. Babbage é considerado o pai do ramo do conhecimento que mais tarde será a computação, mas só muito mais tarde o primeiro computador será feito como tal.
+<strong>Outro fundador importante neste processo foi Alan Turing</strong>, criador de uma máquina capaz de calcular qualquer coisa, e que ele chamou de “máquina universal” ou “máquina de Turing”. As <u>ideias</u> que serviram para construí-lo foram as mesmas que mais tarde deram origem ao primeiro computador.
+
+Outro caso importante foi o do <strong>ENIAC ( Integrador e Calculadora de Numeral Eletrônico , ou seja, Integrador e Calculadora de Numeral Eletrônico)</strong>, criado por dois professores da Universidade da Pensilvânia em 1943, considerado o avô dos próprios computadores. Consistia em 18.000 tubos de vácuo que enchiam uma sala inteira.
+
+<h2>Invenção do transitores</h2>
+
+A história dos computadores não teria tido o curso que teve sem a invenção dos transistores em 1947, <strong> resultados dos esforços dos laboratórios Bell nos Estados Unidos</strong> . Esses dispositivos são interruptores elétricos feitos <u> de materiais </u> sólidos e sem a necessidade de vácuo.
+
+<p>Essa descoberta foi fundamental para a fabricação dos primeiros microchips , e eles permitiram a passagem dos dispositivos elétricos para os eletrônicos. Os primeiros circuitos integrados (ou seja, chips) surgiram em 1958, resultado dos esforços de Jack Kilby e Robert Noyce. O primeiro recebeu o Prêmio Nobel de Física em 2000 pela descoberta.</p>]
+
+<p>Essa descoberta <strong> fundamental para a fabricação dos primeiros microchips </strong> , e eles permitiram a passagem dos dispositivos elétricos para os eletrônicos. Os primeiros circuitos integrados (ou seja, chips) surgiram em 1958, resultado dos esforços de Jack Kilby e Robert Noyce. O primeiro recebeu o<u> Prêmio Nobel de Física</u> em 2000 pela descoberta.
+
+   <h2>O primeiro computador</h2>
+   
+   Os primeiros computadores <strong>surgiram como máquinas de cálculo lógico</strong>, devido às necessidades dos Aliados durante a <u>Segunda Guerra Mundial</u> . Para decodificar as transmissões dos lados em guerra, os cálculos tiveram que ser feitos rápida e constantemente.
+
+   <p>Por esse motivo, <strong>a Universidade de Harvard projetou o primeiro computador eletromecânico em 1944</strong> , com o auxílio da IBM, batizado de Mark I. Ele tinha cerca de 15 metros de comprimento e 2,5 metros de altura, envolto em uma <u>caixa de vidro</u> e <u>aço </u>inoxidável. Tinha 760.000 peças, 800 quilômetros de cabos e 420 chaves de controle. Ele serviu por 16 anos.
+   
+   <p>Ao mesmo tempo,<strong>na</strong> <u><strong>Alemanha</strong></u> ,<strong>foram desenvolvidos o Z1 e o Z2</strong> , modelos de teste de computador semelhantes construídos por Konrad Zuse, que completou seu modelo Z3 totalmente operacional, baseado no sistema binário. Era menor e mais barato de construir do que seu concorrente americano.
+   
+      
+   <p>Por esse motivo, até trinta e quatro patentes diferentes surgiram de seu desenvolvimento. Nos anos posteriores, <strong> de base para a construção de computadores IBM</strong> , com muito sucesso industrial e comercial.
+
+   <h2>O primeiro computador de uso comercial</h2>
+   <strong>Em fevereiro de 1951 apareceu o Ferranti Mark 1</strong> , uma versão moderna do computador norte-americano de mesmo nome que estava disponível comercialmente. Foi extremamente importante na história do computador, pois possuía um índice de registros, o que permitia a <u>leitura</u> mais fácil de um conjunto de palavras na memória.
+      
+      <p>Por esse motivo, até trinta e quatro patentes diferentes surgiram de seu desenvolvimento. Nos anos posteriores, serviu de base para a construção de computadores IBM , com muito sucesso industrial e comercial.
+      
+      <h2> A primeira linguagem de programação</h2>
+      
+      <strong> 1953 surgiu FORTRAN </strong>, um acrônimo para The IBM Mathematical Formula Translation (“Tradução de fórmulas matemáticas IBM”), desenvolvido como a primeira linguagem de programação formal, ou seja, o primeiro programa projetado para fazer programas de computador, por programadores IBM, liderados por John Backus.
+      
+      <p><strong> Ele foi inicialmente desenvolvido para o computador IBM 704 </strong>e para uma ampla gama de aplicativos científicos e de engenharia, razão pela qual teve uma ampla série de versões ao longo de meio século de implementação. Ainda é uma das duas linguagens de programação mais populares, especialmente para os supercomputadores do mundo.
+      
+      <h2>O primeiro computador moderno</h2>
+      
+      O primeiro computador moderno apareceu no outono de 1968, como um protótipo apresentado por Douglas Engelbart. <strong> tinha pela primeira vez um mouse ou ponteiro e uma interface gráfica de usuário </strong>(GUI), mudando para sempre a maneira como os usuários e os sistemas de computador iriam interagir de agora em diante.
+      
+    A apresentação do protótipo de Engelbart <strong> 90 minutos e incluiu uma conexão na tela com seu centro de pesquisa</strong> , constituindo assim a primeira videoconferência da história. Os modelos <u>Apple</u> e <u>Windows</u> posteriores eram versões posteriores deste primeiro protótipo.
+      
+      <h2> Dispositivos de armazenamento secundário</h2>
+      
+      Os disquetes de 3 ½ polegadas eram rígidos, coloridos e muito menores.
+      O primeiro dispositivo para troca de informações entre um computador e outro foram os disquetes, criados em 1971 pela IBM . Eram quadrados pretos de plástico flexível, no meio dos quais havia um material magnetizável que possibilitava o registro e a recuperação de informações. Existem vários tipos de disquetes:
+      
+      <p><strong>8 polegadas.</strong> O primeiro a surgir, volumoso e com capacidade entre 79 e 512 kbytes.
+      <p><strong>5 ¼ polegadas.</strong> Semelhante ao de 8 polegadas, mas menor, eles armazenavam entre 89 e 360 ​​kbytes.
+      <p><strong>3 ½ polegadas.</strong> na década de 1980, eram rígidos, coloridos e muito menores, com capacidade entre 720 e 1440 kbytes.
+      <p>Havia também <strong> versões de alta e baixa densidade</strong> e inúmeras variantes de cassete. No final da década de 80, o surgimento e massificação do disco compacto (CD) substituíram completamente o formato, aumentando a velocidade e a capacidade de recuperação de dados.
+      
+      <p>Finalmente, na virada do século, todos esses formatos de dispositivos tornaram-se obsoletos e <strong> foram substituídos pelo pendrive ou memória flash removível ,</strong> de capacidade variada (mas muito superior), alta velocidade e extrema portabilidade.
+      
+      <h2>As primeiras redes de computadores</h2>
+      A primeira <u>rede de computadores</u> do mundo <strong>  a ARPANET, criada em 1968 </strong> pelo Departamento de Defesa dos Estados Unidos. Servia como uma plataforma rápida para a troca de informações entre instituições educacionais e estatais, provavelmente para fins militares.
+      
+      <p>Essa rede foi desenvolvida, atualizada e acabou <strong>se</strong> tornando <strong>espinha dorsal da <u>Internet</u></strong> espinha dorsal da Internet , já aberta ao público em geral, pelo menos até 1990.
+      
+      <h2>Computadores do século 21</h2>
+      
+      Os computadores <strong>agora fazem parte da vida contidiana</strong>, a tal ponto que, para muitos, um mundo sem eles já é inconcebível. Eles se encontram em nossos escritórios, em nossos <u>telefones celulares </u>, em diversos eletrodomésticos, encarregados de instalações automatizadas e realizando infinitas operações de forma automática e independente.
+      
+      <p>Isso <strong>tem muitos aspectos positivos, mas também tem muitos medos</strong> Por exemplo, o surgimento da robótica, o próximo passo natural para a computação, promete colocar muitos trabalhadores humanos fora do trabalho, sobrecarregados pela capacidade de automação que está aumentando e mais rápido a cada dia.
+
+         <h2>O que são <i>Clients</i>?</h2>
+
+        
+         cliente-servidor é utilizada no âmbito da informática. Nesse contexto, chama-se cliente ao dispositivo que exige determinados serviços a um servidor. A ideia de servidor, entretanto, refere-se ao equipamento que presta serviços aos computadores conectados a ele através de uma rede.
+
+         <p> O conceito de <strong> cliente-servidor,</strong>, refere-se, portanto, a um modelo de comunicação que vincula vários dispositivos informáticos através de uma rede. O cliente, nesse contexto, faz solicitações de serviços ao servidor, responsável por atender a esses requisitos.
+         
+            <p> Com essa arquitetura, as tarefas são distribuídas entre os servidores <u>(que fornecem os serviços)</u> e os clientes (que exigem esses serviços). Por outras palavras: o cliente solicita ao servidor um recurso, que fornece uma resposta.
+         
+               <p>Este tipo de modelo permite distribuir a capacidade de processamento. O servidor pode ser executado em mais de um equipamento e ser mais de um programa. De acordo com os serviços que presta, pode ser chamado de servidor web, servidor de correio ou outro.
+         
+                  <p>Em redes estruturadas com o modelo cliente-servidor, os clientes centralizam diferentes aplicações e recursos no servidor. O servidor, por sua vez, garante que esses recursos estão disponíveis sempre que um cliente os exigir.
+         
+                     <p> <strong> É importante mencionar que grande parte dos serviços da Internet obedece à arquitetura cliente-servidor.</strong> O servidor da web disponibiliza para o cliente os sites, que o cliente acessa através de seu navegador. Dessa forma, o servidor hospeda os dados que o cliente solicita através do navegador instalado em seu computador.
+
+         <h2>O que são Servers</h2>
+
+         Um servidor é um computador equipado com um ou mais processadores, bancos de memória, portas de comunicação, softwares e, ocasionalmente, algum sistema para armazenamento de dados, como hard disks internos ou memórias SSD.
+
+<p>O termo servidor também define um recurso dentro de um sistema computacional maior, capaz de processar aplicações, prestar serviços e armazenar dados. Esses sistemas podem ser físicos ou virtuais, estarem instalados local ou remotamente. Normalmente, são escaláveis e possuem alto poder de processamento.
+
+<p>Capazes de executar um conjunto específico de programas ou protocolos para fornecer serviços para outras máquinas ou clientes, servidores são equipamentos dedicados a executar aplicações e serviços dentro de uma rede LAN ou WAN.
+
+         <h2>Arquitetura cliente/servidor</h2>
+
+   Dentro de uma infraestrutura de TI, um servidor e seus clientes (computadores, tablets e outros dispositivos) formam uma arquitetura conhecida como “cliente/servidor”, que fornece sistemas de roteamento e acesso centralizado de informações, recursos e dados armazenados dentro de uma rede.
+
+<p>Como definição rudimentar, podemos considerar um servidor como qualquer solução tecnológica com capacidade para executar programas de forma centralizada, além de armazenar e compartilhar arquivos, administrar filas de impressão e prestar algum tipo de serviço para vários computadores, através de uma rede local ou remota.
+
+          <h2>Servidores para redes locais</h2>
+Apresentados fisicamente em gabinetes para rack 19”, blade ou torre, esses servidores de rede também são conhecidos como “servidores dedicados”, pois utilizam basicamente softwares para gerenciar e prestar serviços dentro de redes locais corporativas.
+
+<p>Esses equipamentos geralmente são os responsáveis por atender as requisições dos computadores clientes da rede local. Um <strong><u>servidor local</u></strong> têm como função centralizar as aplicações corporativas de TI dentro das organizações, executar softwares administrativos e banco de dados.
+
+   Para isso, qualquer servidor precisa executar um sistema operacional, que é o software responsável pelo gerenciamento de todo o hardware e pela execução dos softwares administrativos instalados no sistema.
+   
+   Dentre esses principais sistemas operacionais estão distribuições Linux como Red Hat e diversas versões do Windows Server da Microsoft.
+   
+   Além disso, esses sistemas permitem, dentre outras coisas, executar aplicativos corporativos como banco de dados, <strong><u>backup</u></strong>, virtualização ou controlar o acesso às informações através da criação de contas e senhas, inclusive atribuindo privilégios para grupos específicos de usuários.
+   
+   </p>
+
+            <h2>Servidores de serviços via internet</h2>
+Com hardware similar aos servidores de dados das redes LAN, os computadores que prestam serviços via internet geralmente são instalados em infraestruturas de TI como datacenters e prestam serviços como a hospedagem de sites, distribuição de emails e outros serviços como a propagação de conteúdo como áudio e vídeo.
+
+<p>Como cada aplicação possui um nível de exigência em termos de disponibilidade, performance e segurança, o hardware e software que compõe cada servidor também é definido de acordo com cada projeto.
+
+   <p>Grandes datacenters comercializam servidores como serviços, alugando <strong><u>servidores virtuais</u></strong> com recursos de processamento, armazenamento e comunicação para prestar serviços através de redes de comunicação como a internet.
+
+      <p>É comum encontrarmos instalações profissionais com diversos servidores redundantes, funcionando agrupados com outros equipamentos (em cluster) e com uma série de recursos sofisticados para manter um funcionamento ininterrupto.
+
+        <p> O conjunto de componentes internos (hardware) que compõem cada servidor difere de acordo com o poder de processamento, da respectiva capacidade de armazenamento, comunicação, do nível de segurança e da proteção do sistema contra desastres.
+
+<p>Além disso, sistemas corporativos fornecem maior possibilidade de gerenciamento e expansão, redundância de hardware e sistemas operacionais mais sofisticados.
+
+<p>Assim como o hardware, o software básico é o conjunto de aplicativos que gerenciará o sistema e também deve ser definido de acordo com cada aplicação.
+
+<p>Ao dimensionar corretamente a demanda que será atendida, o poder de processamento necessário, o número de usuários que acessarão o servidor, bem como a possibilidade de futuros upgrades no sistema, o administrador de TI terá bons indicativos para uma escolha racional do melhor equipamento para sua necessidade.
+
+   <h2>Tipos de servidores</h2>
+
+   Qualificar servidores por tipo nada mais é do que categorizar racionalmente o conjunto de hardware e software por aplicação que o sistema executará com mais frequência.
+
+Necessidades comuns quanto backup empresarial, montar um servidor de arquivos ou de aplicação são comuns para milhares de usuários. Grandes fabricantes como Asus, Dell, HP, Lenovo e Supermicro produzem e entregam equipamentos já customizados para esse fim.
+
+<h2>Alguns tipos de servidores de rede mais conhecidos:</h2>
+
+<h2>Servidor de aplicação ou application server</h2>
+
+Utilizados para executar aplicações corporativas e atender diversas estações de trabalho de forma simultânea, os servidores de aplicação geralmente necessitam de seu poder de processamento para executar programas que não podem ser executados apenas numa estação de trabalho.
+
+<p>Assim, vários usuários ganhariam uma ou mais aplicações corporativas sendo executadas em servidores sem prejudicar seu processamento local, mantendo as respectivas bases de dados sempre centralizadas, atualizadas e armazenadas em <strong><u>storages.</u></strong>
+
+<h2>Servidor de Arquivos</h2>
+
+Servidores de arquivos são sistemas para armazenar e compartilhar uma grande quantidade de informações entre equipamentos e usuários, mantendo o gerenciamento centralizado.
+
+<p>A rigor, qualquer computador pode ser configurado como um file server, porém equipamentos para esse fim como storages NAS cumprem muito melhor essa função.
+
+         <h2>Como é uma estrutura básica de um HTML?</h2>
+      
+<strong>o código básico de HTML</strong> 
+O documento HTML sempre inicia com o que chamamos de <strong>estrutura básica.</strong> estrutura é quase que imutável. Sempre será dessa forma e você sempre, sempre começará seu HTML começando por esse código. Geralmente os editores como o Sublime Text já tem atalhos para iniciar os documentos HTMLs com essa estrutura, logo, você não precisa se preocupar em decorá-la, mas é bom que faça. Veja abaixo como ela se inicia:
+
+<section class="banner-destaque">
+   <figure>
+       <a href="#" class="pause"></a>
+       <img src="img/doc.PNG"height="430" width="700">
+       
+   </figure>
+
+</section>
+
+É possível compreender o documento em HTML de uma maneira muito simples, através de uma divisão de blocos das tags essenciais, conforme a a seguinte estrutura:
+Definição do documento (doctype)
+<p> . Definição do documento (doctype)</p>
+<p> . Cabeça (head)</p>
+<p> . Corpo (body)</p>
+
+
+<strong>Doctype - Definindo o documento</strong>
+Uma coisa importante: SEMPRE deve existir o doctype, que é este código <!DOCTYPE html>.
+<p>O doctype não é uma tag HTML, mas uma instrução para o navegador e outros programas que podem ler seu site, que o código encontrado ali é um código HTML. Assim eles sabem o que fazer para mostrar seu site da melhor forma possível. Lembre-se: o doctype é OBRIGATÓRIO e deve ser sempre a <u>PRIMEIRA LINHA do seu documento.</u>
+
+<p><strong>HEAD</strong>
+Contém informações que não são transpostas visivelmente para o usuário/leitor do documento. São dados implícitos, de uso e controle do documento: vinculação com outros arquivos, aplicação de lógica de programação de scripts e metadados. Na prática, todo o conteúdo do cabeçalho fica delimitado entre a abertura e fechamento tag head.
+
+<p><strong>BODY</strong>
+Trata-se do documento em si, ou seja, a informação legível para o usuário/leitor do documento. É todo e qualquer texto que se deseja apresentar, assim como toda e qualquer forma de mídia de saída (imagens, sons, miniaplicativos embutidos, conteúdo multimídia, etc). Além disso, toda a apresentação de entrada de dados (formulários) também se aplica neste seção do documento. Na prática, o corpo do documento é delimitado pelo par de tags <body> e </body>.
+
+<<p>Este é o preceito básico que deve estar muito bem claro para você: onde as marcações se aplicam, e quais são os resultados deste modelo. Por exemplo: se vocês deseja informar conteúdo textual para saída legível ao usuário do seu sistema web, esta marcação deverá obrigatoriamente estar no bloco do corpo da página. Ainda: para definir qual o tipo de codificação da página (uma meta informação do documento), esta deve obrigatoriamente estar marcada no cabeçalho do mesmo documento.
+
+<p>Dentro do <u>elemento BODY sua estrutura de página</u> terá os elementos semânticos da construção da sua página, onde serão declarados e identificados cabeçalhos, rodapé, conteúdo principal, etc.
+   
+      <h2> Entendendo a diferença entre listas ordenadas e não ordenadas</h2>
+
+        A principal diferença entre a lista ordenada e a lista não-ordenada está na maneira com que os itens de cada lista são apresentados - a <strong>lista ordenada</strong> enumera os elementos; a <strong>lista não-ordenada</strong> coloca marcadores antes de cada elemento.
+      
+      <strong>lista ordenada:</strong> 
+<OL>
+<LI>Item número um.</LI>
+<LI>Item número dois.</LI>
+<LI>Item número três.</LI>
+</OL>
+
+<p>Uma lista ordenada é delimitada pelas etiquetas <OL> e </OL> (Ordered List). Cada item da lista é delimitado pelas etiquetas <LI> e </LI>
+
+   <strong>lista nçao-ordenada:</strong> 
+<UL>
+  <LI>Primeiro item.</LI>
+  <LI>Segundo item.</LI>
+  <LI>Terceiro item.</LI>
+</UL>
+
+<p>A estrutura da lista não-ordenada é semelhante a da lista ordenada - porém, ao invés de ser construída com o elemento OL, é construída com o elemento UL (Unordered List).
+
+   Links de referência para você explorar mais sobre listas ordenadas e não ordenadas:
+
+   <p> 1.<strong>Não Ordenadas (ou Listas de Marcadores):</strong> 
+      <div class="">MDN Web Docs - Listas Não Ordenadas</div>
+      <div class="">W3Schools - Listas Não Ordenadas</div>
+   2.<strong>Listas Ordenadas (ou Listas Numeradas):</strong> 
+      <div class="">MDN Web Docs - Listas Ordenadas</div>
+      <div class="">W3Schools - Listas Ordenadas</div>
+   3.<strong>Listas de Definição:</strong>
+   <div class="">MDN Web Docs - Listas de Definição</div>
+   <div class="">W3Schools - Listas de Definição</div>
+   <p>Esses recursos fornecem informações detalhadas sobre como usar esses elementos em HTML.
+
+
+<footer>
+   <div class="container">
+                      
+       <ul class="fontes">
+           <li><a href="https://caracteristicas.pt/historia-do-computador">Historiado comptador</a></li>
+           <li><a href="https://www.linkedin.com/feed/update/urn:li:share:7217897226721718272/">Clients</a></li>
+           <li><a href="https://www.linkedin.com/feed/update/urn:li:share:7217901076342071296/">EstruraHTML</a></li>
+           <li><a href="https://www.linkedin.com/feed/update/urn:li:share:7217911215941963776/">Servers</a></li>
+           <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:7218035631883448321/">Listas</a></li>
+           <li><a href="https://www.dio.me/users/sidneycavachine">Diome</a></li>
+           
+       </ul>
+   </div>
+
+</footer>      
+
+</body>
+</html>
